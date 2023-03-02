@@ -1,0 +1,13 @@
+com\haydikodlayalim\service\KisiService.class
+com\haydikodlayalim\dto\AdresDto.class
+com\haydikodlayalim\entity\Kisi.class
+com\haydikodlayalim\DataJpaApplication.class
+com\haydikodlayalim\service\impl\AdresServiceImpl.class
+com\haydikodlayalim\entity\Adres.class
+com\haydikodlayalim\controller\KisiController.class
+com\haydikodlayalim\repository\AdresRepository.class
+com\haydikodlayalim\entity\Adres$AdresTip.class
+com\haydikodlayalim\repository\KisiRepository.class
+com\haydikodlayalim\service\impl\KisiServiceImpl.class
+com\haydikodlayalim\dto\KisiDto.class
+com\haydikodlayalim\service\AdresService.class
