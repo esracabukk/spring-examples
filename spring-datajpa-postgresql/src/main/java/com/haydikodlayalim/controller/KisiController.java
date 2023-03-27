@@ -15,7 +15,7 @@ public class KisiController {
 
     private final KisiService kisiService;
 
-    @GetMapping
+    @GetMapping("/kisigetir")
     public ResponseEntity<List<KisiDto>> kisilerigetir(){
 
         return ResponseEntity.ok(kisiService.getAll());
